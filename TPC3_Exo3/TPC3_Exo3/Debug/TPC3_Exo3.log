@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Leska\source\repos\TPC3_Exo3\TPC3_Exo3\Source.c(23,20): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Leska\source\repos\TPC3_Exo3\TPC3_Exo3\Source.c(24,21): warning C4013: 'toupper' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Leska\source\repos\TPC3_Exo3\TPC3_Exo3\Source.c(77,44): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Leska\source\repos\TPC3_Exo3\TPC3_Exo3\Source.c(96,21): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Leska\source\repos\TPC3_Exo3\TPC3_Exo3\Source.c(98,21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  TPC3_Exo3.vcxproj -> C:\Users\Leska\source\repos\TPC3_Exo3\Debug\TPC3_Exo3.exe

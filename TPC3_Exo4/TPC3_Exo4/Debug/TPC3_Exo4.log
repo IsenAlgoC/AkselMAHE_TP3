@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu _main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Leska\source\repos\TPC3_Exo4\Debug\TPC3_Exo4.exe : fatal error LNK1120: 1 externes non résolus
